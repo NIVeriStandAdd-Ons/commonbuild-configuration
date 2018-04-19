@@ -1,0 +1,4 @@
+[repositories.commonbuild-configuration]
+
+[repositories.FPGA-Custom-Device]
+build_number = 1
