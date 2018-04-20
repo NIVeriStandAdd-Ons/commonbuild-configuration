@@ -3,3 +3,5 @@
 [repositories.FPGA-Custom-Device]
 build_number = 1
 
+[repositories.Scan-Engine-Custom-Device]
+build_number = 0
