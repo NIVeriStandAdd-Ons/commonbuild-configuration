@@ -5,3 +5,6 @@ build_number = 2
 
 [repositories.Scan-Engine-Custom-Device]
 build_number = 1
+
+[repositories.Chassis-TimeSync-Custom-Device]
+build_number = 0
