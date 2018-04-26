@@ -3,6 +3,9 @@
 [repositories.FPGA-Custom-Device]
 build_number = 4
 
+[repositories.UDP-Data-Link-Custom-Device]
+build_number = 0
+
 [repositories.VeriStand-steps-for-TestStand]
 build_number = 5
 
