@@ -7,7 +7,7 @@ build_number = 4
 build_number = 11
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 13
+build_number = 14
 
 [repositories.Scan-Engine-Custom-Device]
 build_number = 2
