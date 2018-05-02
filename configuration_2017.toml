@@ -4,8 +4,8 @@
 build_number = 3
 
 [repositories.UDP-Data-Link-Custom-Device]
-build_number = 21
-release_branches = ['master','develop']
+release_branches = [ "master", "develop",]
+build_number = 22
 
 [repositories.VeriStand-steps-for-TestStand]
 build_number = 11
