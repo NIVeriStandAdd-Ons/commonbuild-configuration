@@ -1,7 +1,7 @@
 [repositories.commonbuild-configuration]
 
 [repositories.FPGA-Custom-Device]
-build_number = 3
+build_number = 4
 
 [repositories.UDP-Data-Link-Custom-Device]
 release_branches = [ "master", "develop",]
