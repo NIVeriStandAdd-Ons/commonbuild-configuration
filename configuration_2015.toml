@@ -4,7 +4,7 @@
 build_number = 4
 
 [repositories.UDP-Data-Link-Custom-Device]
-build_number = 18
+build_number = 19
 
 [repositories.VeriStand-steps-for-TestStand]
 build_number = 13
