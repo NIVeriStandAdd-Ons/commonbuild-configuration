@@ -1,16 +1,16 @@
 [repositories.commonbuild-configuration]
 
 [repositories.FPGA-Custom-Device]
-build_number = 5
+build_number = 4
 
 [repositories.UDP-Data-Link-Custom-Device]
-build_number = 19
+build_number = 23
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 13
+build_number = 11
 
 [repositories.Scan-Engine-Custom-Device]
-build_number = 0
+build_number = 2
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 16
