@@ -1,6 +1,7 @@
 [repositories.Fuel-Injector-Analysis-Addon]
 
 [repositories.Diagnostics-Custom-Device]
+build_number = 0
 
 [repositories.J1939-Custom-Device]
 
