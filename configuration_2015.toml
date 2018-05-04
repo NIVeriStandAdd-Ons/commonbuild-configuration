@@ -1,5 +1,7 @@
 [repositories.Fuel-Injector-Analysis-Addon]
 
+[repositories.Diagnostics-Custom-Device]
+
 [repositories.J1939-Custom-Device]
 
 [repositories.commonbuild-configuration]
