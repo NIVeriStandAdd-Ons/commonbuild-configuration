@@ -4,10 +4,13 @@
 
 [repositories.J1939-Custom-Device]
 
+[repositories.CAN-Frame-Protection-Custom-Device]
+build_number = 0
+
 [repositories.commonbuild-configuration]
 
 [repositories.FPGA-Custom-Device]
-build_number = 7
+build_number = 8
 
 [repositories.UDP-Data-Link-Custom-Device]
 build_number = 24
