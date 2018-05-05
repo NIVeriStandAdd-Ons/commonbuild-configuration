@@ -4,6 +4,9 @@ build_number = 0
 [repositories.Diagnostics-Custom-Device]
 build_number = 0
 
+[repositories.OPC-UA-Client-Custom-Device]
+build_number = 0
+
 [repositories.J1939-Custom-Device]
 
 [repositories.CAN-Frame-Protection-Custom-Device]
@@ -24,4 +27,4 @@ build_number = 17
 build_number = 2
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 26
+build_number = 27
