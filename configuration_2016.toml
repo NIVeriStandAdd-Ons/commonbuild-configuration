@@ -2,7 +2,7 @@
 build_number = 0
 
 [repositories.Diagnostics-Custom-Device]
-build_number = 1
+build_number = 2
 
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 1
