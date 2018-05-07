@@ -16,7 +16,7 @@ build_number = 4
 [repositories.commonbuild-configuration]
 
 [repositories.FPGA-Custom-Device]
-build_number = 9
+build_number = 10
 
 [repositories.UDP-Data-Link-Custom-Device]
 build_number = 24
