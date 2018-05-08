@@ -1,6 +1,3 @@
-[repositories.Fuel-Injector-Analysis-Addon]
-build_number = 2
-
 [repositories.Diagnostics-Custom-Device]
 build_number = 4
 
@@ -10,13 +7,7 @@ build_number = 0
 [repositories.J1939-Custom-Device]
 build_number = 0
 
-[repositories.CAN-Frame-Protection-Custom-Device]
-build_number = 4
-
 [repositories.commonbuild-configuration]
-
-[repositories.FPGA-Custom-Device]
-build_number = 10
 
 [repositories.UDP-Data-Link-Custom-Device]
 build_number = 24
@@ -26,6 +17,18 @@ build_number = 1
 
 [repositories.VeriStand-steps-for-TestStand]
 build_number = 17
+
+[repositories.Fuel-Injector-Analysis-Addon]
+build_number = 2
+
+[repositories.Instrument-Custom-Device]
+build_number = 0
+
+[repositories.CAN-Frame-Protection-Custom-Device]
+build_number = 4
+
+[repositories.FPGA-Custom-Device]
+build_number = 10
 
 [repositories.Scan-Engine-Custom-Device]
 build_number = 2
