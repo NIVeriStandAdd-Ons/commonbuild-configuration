@@ -2,7 +2,7 @@
 build_number = 6
 
 [repositories.OPC-UA-Client-Custom-Device]
-build_number = 2
+build_number = 3
 
 [repositories.J1939-Custom-Device]
 build_number = 0
