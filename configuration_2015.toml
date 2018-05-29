@@ -1,11 +1,11 @@
 [repositories.Diagnostics-Custom-Device]
-build_number = 8
+build_number = 9
 
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 3
 
 [repositories.J1939-Custom-Device]
-build_number = 1
+build_number = 2
 
 [repositories.commonbuild-configuration]
 
@@ -19,7 +19,7 @@ build_number = 3
 build_number = 17
 
 [repositories.Fuel-Injector-Analysis-Addon]
-build_number = 4
+build_number = 5
 
 [repositories.Instrument-Custom-Device]
 build_number = 5
