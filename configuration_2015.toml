@@ -1,5 +1,5 @@
 [repositories.Diagnostics-Custom-Device]
-build_number = 10
+build_number = 7
 
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 4
@@ -10,19 +10,19 @@ build_number = 3
 [repositories.commonbuild-configuration]
 
 [repositories.UDP-Data-Link-Custom-Device]
-build_number = 25
+build_number = 26
 
 [repositories.Control-Custom-Device]
-build_number = 5
+build_number = 7
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 22
+build_number = 23
 
 [repositories.Fuel-Injector-Analysis-Addon]
-build_number = 6
+build_number = 3
 
 [repositories.Instrument-Custom-Device]
-build_number = 6
+build_number = 5
 
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 4
@@ -31,7 +31,7 @@ build_number = 4
 build_number = 18
 
 [repositories.Scan-Engine-Custom-Device]
-build_number = 2
+build_number = 3
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 27
