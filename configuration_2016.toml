@@ -5,7 +5,7 @@ build_number = 7
 build_number = 4
 
 [repositories.J1939-Custom-Device]
-build_number = 8
+build_number = 7
 
 [repositories.commonbuild-configuration]
 
@@ -16,7 +16,7 @@ build_number = 26
 build_number = 7
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 60
+build_number = 61
 
 [repositories.Fuel-Injector-Analysis-Addon]
 build_number = 3
