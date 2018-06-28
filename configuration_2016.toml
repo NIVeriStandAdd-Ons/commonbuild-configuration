@@ -5,7 +5,7 @@ build_number = 8
 build_number = 4
 
 [repositories.J1939-Custom-Device]
-build_number = 8
+build_number = 9
 
 [repositories.commonbuild-configuration]
 
@@ -16,7 +16,7 @@ build_number = 31
 build_number = 9
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 69
+build_number = 39
 
 [repositories.Fuel-Injector-Analysis-Addon]
 build_number = 4
@@ -26,9 +26,6 @@ build_number = 0
 
 [repositories.Instrument-Custom-Device]
 build_number = 5
-
-[repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 2
 
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 4
@@ -40,4 +37,4 @@ build_number = 18
 build_number = 3
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 34
+build_number = 33
