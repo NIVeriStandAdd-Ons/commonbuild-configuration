@@ -4,6 +4,9 @@ build_number = 8
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 4
 
+[repositories.SLSC-EDS-Plugin-Custom-Device]
+build_number = 0
+
 [repositories.J1939-Custom-Device]
 build_number = 9
 
