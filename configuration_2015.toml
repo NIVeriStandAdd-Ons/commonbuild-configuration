@@ -1,7 +1,7 @@
 [repositories.commonbuild-configuration]
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 6
+build_number = 7
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 0
