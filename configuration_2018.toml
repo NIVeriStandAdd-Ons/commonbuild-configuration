@@ -5,3 +5,6 @@ build_number = 12
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 0
+
+[repositories.Ballard-Arinc-429-Custom-Device]
+build_number = 2
