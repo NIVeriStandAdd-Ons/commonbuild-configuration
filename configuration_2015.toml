@@ -4,7 +4,7 @@ build_number = 3
 [repositories.commonbuild-configuration]
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 21
+build_number = 22
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 0
+build_number = 1
