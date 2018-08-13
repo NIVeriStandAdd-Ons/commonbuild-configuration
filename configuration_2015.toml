@@ -1,10 +1,10 @@
 [repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 3
+build_number = 4
 
 [repositories.commonbuild-configuration]
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 28
+build_number = 29
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 1
