@@ -1,10 +1,40 @@
-[repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 5
+[repositories.Diagnostics-Custom-Device]
+build_number = 8
+
+[repositories.OPC-UA-Client-Custom-Device]
+build_number = 4
+
+[repositories.J1939-Custom-Device]
+build_number = 9
 
 [repositories.commonbuild-configuration]
 
+[repositories.UDP-Data-Link-Custom-Device]
+build_number = 32
+
+[repositories.Control-Custom-Device]
+build_number = 11
+
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 48
+build_number = 60
+
+[repositories.Fuel-Injector-Analysis-Addon]
+build_number = 4
+
+[repositories.Engine-Simulation-Toolkit-Custom-Device]
+build_number = 0
+
+[repositories.Instrument-Custom-Device]
+build_number = 5
+
+[repositories.CAN-Frame-Protection-Custom-Device]
+build_number = 4
+
+[repositories.FPGA-Custom-Device]
+build_number = 18
+
+[repositories.Scan-Engine-Custom-Device]
+build_number = 3
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 1
+build_number = 33
