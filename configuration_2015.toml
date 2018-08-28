@@ -31,7 +31,7 @@ build_number = 5
 build_number = 8
 
 [repositories.FPGA-Custom-Device]
-build_number = 18
+build_number = 19
 
 [repositories.Scan-Engine-Custom-Device]
 build_number = 3
