@@ -39,11 +39,11 @@ build_number = 9
 [repositories.FPGA-Custom-Device]
 build_number = 20
 
+[repositories.Data-Publishing-Service]
+build_number = 0
+
 [repositories.Scan-Engine-Custom-Device]
 build_number = 3
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 41
-
-[repositories.Data-Publishing-Service]
-build_number = 0
+build_number = 42
