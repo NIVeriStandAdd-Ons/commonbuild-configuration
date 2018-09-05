@@ -10,4 +10,4 @@ build_number = 60
 build_number = 0
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 7
+build_number = 8
