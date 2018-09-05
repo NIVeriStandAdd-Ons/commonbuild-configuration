@@ -6,8 +6,8 @@ build_number = 5
 [repositories.VeriStand-steps-for-TestStand]
 build_number = 60
 
-[repositories.Chassis-TimeSync-Custom-Device]
-build_number = 6
-
 [repositories.Data-Publishing-Service]
 build_number = 0
+
+[repositories.Chassis-TimeSync-Custom-Device]
+build_number = 7
