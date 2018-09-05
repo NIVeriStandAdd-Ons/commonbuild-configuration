@@ -46,4 +46,4 @@ build_number = 0
 build_number = 3
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 42
+build_number = 43
