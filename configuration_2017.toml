@@ -47,3 +47,6 @@ build_number = 3
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 44
+
+[repositories.Waveform-Data-Logger-Custom-Device]
+build_number = 0
