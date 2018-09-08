@@ -7,7 +7,7 @@ build_number = 5
 build_number = 0
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 61
+build_number = 62
 
 [repositories.Data-Publishing-Service]
 build_number = 0
