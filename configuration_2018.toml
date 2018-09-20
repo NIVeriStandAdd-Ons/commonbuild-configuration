@@ -1,19 +1,34 @@
+[repositories.Diagnostics-Custom-Device]
+build_number = 0
+
+[repositories.J1939-Custom-Device]
+build_number = 0
+
+[repositories.commonbuild-configuration]
+
+[repositories.UDP-Data-Link-Custom-Device]
+build_number = 0
+
+[repositories.Control-Custom-Device]
+build_number = 0
+
+[repositories.VeriStand-steps-for-TestStand]
+build_number = 62
+
+[repositories.Fuel-Injector-Analysis-Addon]
+build_number = 0
+
 [repositories.Ballard-Arinc-429-Custom-Device]
 build_number = 5
 
 [repositories.Instrument-Custom-Device]
 build_number = 1
 
-[repositories.commonbuild-configuration]
+[repositories.CAN-Frame-Protection-Custom-Device]
+build_number = 0
 
 [repositories.FPGA-Custom-Device]
-build_number = 0
-
-[repositories.UDP-Data-Link-Custom-Device]
-build_number = 0
-
-[repositories.VeriStand-steps-for-TestStand]
-build_number = 62
+build_number = 1
 
 [repositories.Data-Publishing-Service]
 build_number = 0
@@ -22,19 +37,4 @@ build_number = 0
 build_number = 9
 
 [repositories.Waveform-Data-Logger-Custom-Device]
-build_number = 0
-
-[repositories.Fuel-Injector-Analysis-Addon]
-build_number = 0
-
-[repositories.CAN-Frame-Protection-Custom-Device]
-build_number = 0
-
-[repositories.Diagnostics-Custom-Device]
-build_number = 0
-
-[repositories.J1939-Custom-Device]
-build_number = 0
-
-[repositories.Control-Custom-Device]
 build_number = 0
