@@ -23,3 +23,18 @@ build_number = 9
 
 [repositories.Waveform-Data-Logger-Custom-Device]
 build_number = 0
+
+[repositories.Fuel-Injector-Analysis-Addon]
+build_number = 0
+
+[repositories.CAN-Frame-Protection-Custom-Device]
+build_number = 0
+
+[repositories.Diagnostics-Custom-Device]
+build_number = 0
+
+[repositories.J1939-Custom-Device]
+build_number = 0
+
+[repositories.Control-Custom-Device]
+build_number = 0
