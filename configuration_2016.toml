@@ -19,7 +19,7 @@ build_number = 35
 build_number = 14
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 116
+build_number = 117
 
 [repositories.Fuel-Injector-Analysis-Addon]
 build_number = 5
