@@ -22,7 +22,7 @@ build_number = 76
 build_number = 5
 
 [repositories.Engine-Simulation-Toolkit-Custom-Device]
-build_number = 2
+build_number = 3
 
 [repositories.Instrument-Custom-Device]
 build_number = 9
