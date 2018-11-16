@@ -8,7 +8,7 @@ build_number = 4
 build_number = 3
 
 [repositories.J1939-Custom-Device]
-build_number = 11
+build_number = 12
 
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 2
