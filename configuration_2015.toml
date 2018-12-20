@@ -5,7 +5,7 @@ build_number = 11
 build_number = 4
 
 [repositories.J1939-Custom-Device]
-build_number = 13
+build_number = 14
 
 [repositories.commonbuild-configuration]
 
