@@ -2,7 +2,7 @@
 build_number = 12
 
 [repositories.OPC-UA-Client-Custom-Device]
-build_number = 4
+build_number = 5
 
 [repositories.SLSC-EDS-Plugin-Custom-Device]
 build_number = 3
