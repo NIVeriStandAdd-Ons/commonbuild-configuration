@@ -13,13 +13,13 @@ build_number = 3
 build_number = 2
 
 [repositories.Control-Custom-Device]
-build_number = 3
+build_number = 4
 
 [repositories.VeriStand-steps-for-TestStand]
 build_number = 108
 
 [repositories.Fuel-Injector-Analysis-Addon]
-build_number = 0
+build_number = 1
 
 [repositories.Engine-Simulation-Toolkit-Custom-Device]
 build_number = 2

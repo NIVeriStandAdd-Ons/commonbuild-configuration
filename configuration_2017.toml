@@ -31,7 +31,7 @@ build_number = 6
 build_number = 4
 
 [repositories.Instrument-Custom-Device]
-build_number = 10
+build_number = 11
 
 [repositories.Ballard-Arinc-429-Custom-Device]
 build_number = 12
