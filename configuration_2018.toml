@@ -34,7 +34,7 @@ build_number = 4
 build_number = 5
 
 [repositories.FPGA-Custom-Device]
-build_number = 8
+build_number = 9
 
 [repositories.Data-Publishing-Service]
 build_number = 0
