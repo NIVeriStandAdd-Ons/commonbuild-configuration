@@ -13,7 +13,7 @@ build_number = 18
 build_number = 32
 
 [repositories.Control-Custom-Device]
-build_number = 16
+build_number = 17
 
 [repositories.VeriStand-steps-for-TestStand]
 build_number = 118
