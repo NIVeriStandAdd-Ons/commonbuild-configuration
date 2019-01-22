@@ -34,7 +34,7 @@ build_number = 4
 build_number = 13
 
 [repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 13
+build_number = 14
 
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 14
