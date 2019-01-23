@@ -37,7 +37,7 @@ build_number = 6
 build_number = 9
 
 [repositories.Data-Publishing-Service]
-build_number = 0
+build_number = 1
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 9
