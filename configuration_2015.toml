@@ -34,7 +34,7 @@ build_number = 16
 build_number = 30
 
 [repositories.Data-Publishing-Service]
-build_number = 1
+build_number = 2
 
 [repositories.Scan-Engine-Custom-Device]
 build_number = 3
