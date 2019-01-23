@@ -1,6 +1,9 @@
 [repositories.Diagnostics-Custom-Device]
 build_number = 3
 
+[repositories.OPC-UA-Client-Custom-Device]
+build_number = 0
+
 [repositories.J1939-Custom-Device]
 build_number = 10
 
