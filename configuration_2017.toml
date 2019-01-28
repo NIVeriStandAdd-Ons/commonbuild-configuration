@@ -49,7 +49,7 @@ build_number = 2
 build_number = 4
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 44
+build_number = 45
 
 [repositories.Waveform-Data-Logger-Custom-Device]
 build_number = 0
