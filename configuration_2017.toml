@@ -11,7 +11,7 @@ build_number = 3
 build_number = 20
 
 [repositories.Waveform-Processing-Custom-Device]
-build_number = 3
+build_number = 4
 
 [repositories.commonbuild-configuration]
 
