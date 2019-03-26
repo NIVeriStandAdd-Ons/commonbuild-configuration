@@ -19,7 +19,7 @@ build_number = 3
 build_number = 6
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 114
+build_number = 115
 
 [repositories.Fuel-Injector-Analysis-Addon]
 build_number = 2
@@ -28,10 +28,10 @@ build_number = 2
 build_number = 2
 
 [repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 10
+build_number = 12
 
 [repositories.Instrument-Custom-Device]
-build_number = 7
+build_number = 8
 
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 8
@@ -43,7 +43,7 @@ build_number = 17
 build_number = 2
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 11
+build_number = 12
 
 [repositories.Waveform-Data-Logger-Custom-Device]
 build_number = 0
