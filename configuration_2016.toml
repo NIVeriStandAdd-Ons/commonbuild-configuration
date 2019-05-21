@@ -40,7 +40,7 @@ build_number = 16
 build_number = 19
 
 [repositories.FPGA-Custom-Device]
-build_number = 39
+build_number = 40
 
 [repositories.Data-Publishing-Service]
 build_number = 2
