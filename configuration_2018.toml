@@ -13,7 +13,7 @@ build_number = 4
 [repositories.commonbuild-configuration]
 
 [repositories.UDP-Data-Link-Custom-Device]
-build_number = 13
+build_number = 14
 
 [repositories.Control-Custom-Device]
 build_number = 9
