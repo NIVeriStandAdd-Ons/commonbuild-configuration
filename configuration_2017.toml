@@ -1,5 +1,5 @@
 [repositories.Diagnostics-Custom-Device]
-build_number = 16
+build_number = 17
 
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 10
