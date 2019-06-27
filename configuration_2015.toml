@@ -19,7 +19,7 @@ build_number = 21
 build_number = 125
 
 [repositories.Fuel-Injector-Analysis-Addon]
-build_number = 8
+build_number = 9
 
 [repositories.Engine-Simulation-Toolkit-Custom-Device]
 build_number = 6
