@@ -45,6 +45,9 @@ build_number = 40
 [repositories.Data-Publishing-Service]
 build_number = 2
 
+[repositories.Radio-Style-Workspace-Objects]
+build_number = 0
+
 [repositories.Scan-Engine-Custom-Device]
 build_number = 4
 
