@@ -43,7 +43,7 @@ build_number = 19
 build_number = 41
 
 [repositories.Data-Publishing-Service]
-build_number = 2
+build_number = 3
 
 [repositories.Radio-Style-Workspace-Objects]
 build_number = 0
