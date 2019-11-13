@@ -4,6 +4,9 @@ build_number = 20
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 12
 
+[repositories.NI-XNET-Monitor-Custom-Device]
+build_number = 0
+
 [repositories.SLSC-EDS-Plugin-Custom-Device]
 build_number = 6
 
