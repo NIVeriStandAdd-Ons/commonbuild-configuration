@@ -4,6 +4,9 @@ build_number = 9
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 4
 
+[repositories.NI-XNET-Monitor-Custom-Device]
+build_number = 3
+
 [repositories.J1939-Custom-Device]
 build_number = 15
 
