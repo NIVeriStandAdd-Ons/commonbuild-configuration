@@ -5,7 +5,7 @@ build_number = 20
 build_number = 12
 
 [repositories.NI-XNET-Monitor-Custom-Device]
-build_number = 4
+build_number = 5
 
 [repositories.SLSC-EDS-Plugin-Custom-Device]
 build_number = 6
