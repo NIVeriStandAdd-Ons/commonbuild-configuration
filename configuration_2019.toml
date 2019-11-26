@@ -2,13 +2,13 @@
 build_number = 9
 
 [repositories.OPC-UA-Client-Custom-Device]
-build_number = 4
+build_number = 5
 
 [repositories.NI-XNET-Monitor-Custom-Device]
 build_number = 4
 
 [repositories.J1939-Custom-Device]
-build_number = 15
+build_number = 18
 
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 4
@@ -19,31 +19,34 @@ build_number = 4
 build_number = 25
 
 [repositories.Control-Custom-Device]
-build_number = 9
+build_number = 10
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 116
+build_number = 117
 
 [repositories.Fuel-Injector-Analysis-Addon]
-build_number = 4
+build_number = 5
 
 [repositories.Engine-Simulation-Toolkit-Custom-Device]
 build_number = 5
 
 [repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 15
+build_number = 18
 
 [repositories.Instrument-Custom-Device]
-build_number = 11
+build_number = 12
 
 [repositories.CAN-Frame-Protection-Custom-Device]
-build_number = 10
+build_number = 11
 
 [repositories.FPGA-Custom-Device]
-build_number = 20
+build_number = 21
 
 [repositories.Data-Publishing-Service]
-build_number = 2
+build_number = 3
+
+[repositories.Radio-Style-Workspace-Objects]
+build_number = 1
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 12
