@@ -5,7 +5,7 @@ build_number = 38
 build_number = 11
 
 [repositories.NI-XNET-Monitor-Custom-Device]
-build_number = 6
+build_number = 7
 
 [repositories.J1939-Custom-Device]
 build_number = 32
