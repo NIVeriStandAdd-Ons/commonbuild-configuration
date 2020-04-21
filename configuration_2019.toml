@@ -49,7 +49,7 @@ build_number = 9
 build_number = 1
 
 [repositories.Profile-Interpolation-Custom-Device]
-build_number = 0
+build_number = 1
 
 [repositories.Chassis-TimeSync-Custom-Device]
 build_number = 12
