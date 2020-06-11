@@ -13,6 +13,9 @@ build_number = 36
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 4
 
+[repositories.PXImc-Custom-Device]
+build_number = 0
+
 [repositories.commonbuild-configuration]
 
 [repositories.UDP-Data-Link-Custom-Device]
