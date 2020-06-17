@@ -37,7 +37,7 @@ build_number = 5
 build_number = 26
 
 [repositories.Instrument-Custom-Device]
-build_number = 40
+build_number = 41
 
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 34
