@@ -14,7 +14,7 @@ build_number = 6
 build_number = 28
 
 [repositories.Waveform-Processing-Custom-Device]
-build_number = 6
+build_number = 7
 
 [repositories.PXImc-Custom-Device]
 build_number = 0
