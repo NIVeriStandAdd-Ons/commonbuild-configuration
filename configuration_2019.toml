@@ -40,7 +40,7 @@ build_number = 26
 build_number = 41
 
 [repositories.CAN-Frame-Protection-Custom-Device]
-build_number = 36
+build_number = 37
 
 [repositories.FPGA-Custom-Device]
 build_number = 33
