@@ -1,3 +1,6 @@
+[repositories.Diagnostics-Custom-Device]
+build_number = 0
+
 [repositories.Ballard-Arinc-429-Custom-Device]
 build_number = 5
 
