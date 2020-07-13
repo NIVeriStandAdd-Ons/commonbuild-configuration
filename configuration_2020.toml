@@ -8,3 +8,6 @@ build_number = 1
 build_number = 1
 
 [repositories.commonbuild-configuration]
+
+[repositories.Control-Custom-Device]
+build_number = 0
