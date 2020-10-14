@@ -39,6 +39,9 @@ build_number = 26
 [repositories.Instrument-Custom-Device]
 build_number = 41
 
+[repositories.Modbus-Custom-Device-v2]
+build_number = 1
+
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 37
 
@@ -59,6 +62,3 @@ build_number = 12
 
 [repositories.Waveform-Data-Logger-Custom-Device]
 build_number = 2
-
-[repositories.Modbus-Custom-Device-v2]
-build_number = 0
