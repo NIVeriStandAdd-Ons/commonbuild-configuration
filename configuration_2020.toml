@@ -21,5 +21,8 @@ build_number = 0
 [repositories.Control-Custom-Device]
 build_number = 0
 
+[repositories.UDP-Data-Link-Custom-Device]
+build_number = 0
+
 [repositories.Data-Publishing-Service]
 build_number = 2
