@@ -2,7 +2,7 @@
 build_number = 59
 
 [repositories.OPC-UA-Client-Custom-Device]
-build_number = 12
+build_number = 13
 
 [repositories.NI-XNET-Monitor-Custom-Device]
 build_number = 7
