@@ -1,6 +1,9 @@
 [repositories.Diagnostics-Custom-Device]
 build_number = 10
 
+[repositories.OPC-UA-Client-Custom-Device]
+build_number = 0
+
 [repositories.Ballard-Arinc-429-Custom-Device]
 build_number = 5
 
