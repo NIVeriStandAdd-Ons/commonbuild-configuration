@@ -22,7 +22,7 @@ build_number = 5
 build_number = 0
 
 [repositories.Control-Custom-Device]
-build_number = 0
+build_number = 1
 
 [repositories.UDP-Data-Link-Custom-Device]
 build_number = 0
