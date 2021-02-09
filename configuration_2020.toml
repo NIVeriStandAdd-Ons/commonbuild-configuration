@@ -13,6 +13,9 @@ build_number = 1
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 1
 
+[repositories.Ghost-Bus-Addon]
+build_number = 0
+
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 5
 
