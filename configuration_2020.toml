@@ -17,7 +17,7 @@ build_number = 1
 build_number = 0
 
 [repositories.CAN-Frame-Protection-Custom-Device]
-build_number = 5
+build_number = 6
 
 [repositories.commonbuild-configuration]
 
