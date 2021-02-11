@@ -4,25 +4,13 @@ build_number = 12
 [repositories.OPC-UA-Client-Custom-Device]
 build_number = 1
 
-[repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 5
-
 [repositories.J1939-Custom-Device]
 build_number = 2
 
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 1
 
-[repositories.Ghost-Bus-Addon]
-build_number = 1
-
-[repositories.CAN-Frame-Protection-Custom-Device]
-build_number = 6
-
 [repositories.commonbuild-configuration]
-
-[repositories.FPGA-Custom-Device]
-build_number = 0
 
 [repositories.Control-Custom-Device]
 build_number = 2
@@ -30,5 +18,20 @@ build_number = 2
 [repositories.UDP-Data-Link-Custom-Device]
 build_number = 0
 
+[repositories.Ballard-Arinc-429-Custom-Device]
+build_number = 5
+
+[repositories.Ghost-Bus-Addon]
+build_number = 1
+
+[repositories.CAN-Frame-Protection-Custom-Device]
+build_number = 6
+
+[repositories.FPGA-Custom-Device]
+build_number = 0
+
 [repositories.Data-Publishing-Service]
 build_number = 2
+
+[repositories.Waveform-Data-Logger-Custom-Device]
+build_number = 0
