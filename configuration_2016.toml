@@ -16,7 +16,7 @@ build_number = 7
 [repositories.commonbuild-configuration]
 
 [repositories.UDP-Data-Link-Custom-Device]
-build_number = 65
+build_number = 66
 
 [repositories.Control-Custom-Device]
 build_number = 22
