@@ -22,7 +22,7 @@ build_number = 1
 build_number = 6
 
 [repositories.Ghost-Bus-Addon]
-build_number = 1
+build_number = 2
 
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 6
