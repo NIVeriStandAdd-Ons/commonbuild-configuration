@@ -34,7 +34,7 @@ build_number = 0
 build_number = 2
 
 [repositories.Profile-Interpolation-Custom-Device]
-build_number = 1
+build_number = 2
 
 [repositories.Waveform-Data-Logger-Custom-Device]
 build_number = 0
