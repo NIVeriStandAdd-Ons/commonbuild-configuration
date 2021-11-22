@@ -19,7 +19,7 @@ build_number = 2
 build_number = 1
 
 [repositories.Ballard-Arinc-429-Custom-Device]
-build_number = 8
+build_number = 9
 
 [repositories.Ghost-Bus-Addon]
 build_number = 2
